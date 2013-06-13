@@ -114,6 +114,9 @@ return array(
 		'Illuminate\View\ViewServiceProvider',
 		'Illuminate\Workbench\WorkbenchServiceProvider',
 
+		'Zizaco\MongolidLaravel\MongolidServiceProvider',
+		'Zizaco\ConfideMongo\ConfideMongoServiceProvider',
+		'Authority\AuthorityL4\AuthorityL4ServiceProvider',
 	),
 
 	/*
@@ -179,6 +182,9 @@ return array(
 		'Validator'       => 'Illuminate\Support\Facades\Validator',
 		'View'            => 'Illuminate\Support\Facades\View',
 
+		'MongoLid'    => 'Zizaco\MongolidLaravel\MongoLid',
+		'Confide'    => 'Zizaco\Confide\ConfideFacade',
+		'Authority' => 'Authority\AuthorityL4\Facades\Authority',
 	),
 
 );
