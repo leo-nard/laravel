@@ -6,7 +6,8 @@
 		"laravel/framework": "4.0.*",
 		"zizaco/mongolid-laravel": "dev-master",
 		"zizaco/confide-mongo": "dev-master",
-		"machuga/authority-l4": "dev-master"
+		"machuga/authority-l4": "dev-master",
+		"teepluss/api": "1.0.0.*@dev"
 	},
 	"autoload": {
 		"classmap": [
