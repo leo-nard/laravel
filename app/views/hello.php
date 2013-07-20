@@ -42,6 +42,7 @@
             color:#555;
         }
     </style>
+     <script data-main="/assets/js/app-build/app" src="/assets/js/require.js"></script>
 </head>
 <body>
     <div class="welcome">
