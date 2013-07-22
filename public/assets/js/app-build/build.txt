@@ -1,8 +1,10 @@
 
 app.js
 ----------------
-libs/zepto.js
+libs/jquery.js
 libs/underscore.js
 libs/backbone.js
+layout.js
+libs/backbone.layoutmanager.js
 libs/json2.js
 app.js
